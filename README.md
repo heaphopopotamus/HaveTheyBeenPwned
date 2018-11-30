@@ -3,3 +3,6 @@ Use the haveibeenpwned.com api to check a bunch of emails and try to comply with
 
 # Run it
 $ python3 HaveTheyBeenPwned.py --email_list emails.txt
+
+# Requirements
+pip3 install docopt
